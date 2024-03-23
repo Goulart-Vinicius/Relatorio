@@ -1,0 +1,21 @@
+{
+  "name": "relatorio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "author": "Vinícius de Araujo Goulart",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.1",
+    "nodemon": "^3.1.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.57.0",
+    "sucrase": "^3.35.0"
+  }
+}
